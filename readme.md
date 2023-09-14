@@ -1,1 +1,1 @@
-pip3 install deeprai
+pip3 uninstall deeprai
